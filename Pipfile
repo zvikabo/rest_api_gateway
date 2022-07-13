@@ -1,0 +1,29 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+amqpstorm = "*"
+flask-login = "*"
+flask-sqlalchemy = "*"
+flask-cors = "*"
+cx-oracle = "*"
+lock = "*"
+flask = "*"
+urllib3 = "*"
+requests = "*"
+uwsgi = {path = "/GCTI/RestRPC/uwsgi-2.0.19.1.tar.gz"}
+
+[dev-packages]
+urllib3 = "==1.26.7"
+flask-sqlalchemy = "*"
+flask-basicauth = "*"
+flask-login = "*"
+cx-oracle = "*"
+
+[requires]
+python_version = "3.6"
+
+[pipenv]
+allow_prereleases = true
