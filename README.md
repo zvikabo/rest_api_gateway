@@ -10,6 +10,8 @@ Deploying Rest Api Gateway using python- Flak to serve Pay Per View orders that 
   •	Kfs-app-lnx
   •	Bs-app-lnx
 
+  ![image](https://user-images.githubusercontent.com/56754883/227590059-ac44bfd9-b4a9-48a3-a9d7-b96bc1d80c0d.png)
+
   2.2	The deployment on each server is as describe below:
 
 ![image](https://user-images.githubusercontent.com/56754883/227587818-9b63a434-30d8-4cce-9df4-e9d73ba577c0.png)
